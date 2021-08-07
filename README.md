@@ -1,4 +1,8 @@
 # hello-world
 Just anather repository
 
-## My nickname 999golden999
+## Hi Humans, My nickname 999golden999
+
+I study **GitHuB** and **markdown**
+
+It`s My first *.md file 
